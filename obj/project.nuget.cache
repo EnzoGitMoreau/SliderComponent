@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBKe0Q0P5oE=",
+  "success": false,
+  "projectFilePath": "/Users/enzo/gitrep/SliderComponent/SliderComponent.csproj",
+  "expectedPackageFiles": [
+    "/Users/enzo/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly"
+    }
+  ]
+}
