@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SliderComponent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d61086777ab2e680b48c3b4b24368e722ad1b97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97297b87bc6e1c1a96142aa300c83aef6919eb8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SliderComponent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SliderComponent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
